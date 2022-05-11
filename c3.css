@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "one";
+    src: url(Averia_Serif_Libre/AveriaSerifLibre-Bold.ttf);
+}
+body{
+    background-color:coral;
+}
+.img{
+    height: 565px;
+    width: 500px;
+    margin-left: 430px;
+    border-radius:25px;
+}
+.h1{
+    margin-left: 390px;
+    color: #753926;
+    font-family: "one";
+}
+.h2{
+    margin-left: 390px;
+    margin-right: 390px;
+    color: rgb(231, 231, 133);
+    font-family: "one";
+}
+.h23{
+    margin-left: 390px;
+    margin-right: 390px;
+    color: rgb(251, 255, 0);
+    font-family: "one";
+}
