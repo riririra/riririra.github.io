@@ -7,7 +7,7 @@ body{
 }
 .img{
     height: 565px;
-    width: 500px;
+    width: 47px;
     margin-left: 390px;
     border-radius:25px;
 }
@@ -17,13 +17,13 @@ body{
     font-family: "one";
 }
 .h2{
-    margin-left: 390px;
+    margin-left: 470px;
     margin-right: 390px;
     color: rgb(231, 231, 133);
     font-family: "one";
 }
 .h23{
-    margin-left: 390px;
+    margin-left: 470px;
     margin-right: 390px;
     color: rgb(251, 255, 0);
     font-family: "one";
