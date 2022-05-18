@@ -1,6 +1,6 @@
 @font-face {
     font-family: "one";
-    src: url(Averia_Serif_Libre/AveriaSerifLibre-Bold.ttf);
+    src: url(../fonts/Averia_Serif_Libre/AveriaSerifLibre-Bold.ttf);
 }
 body{
     background-color:coral;
@@ -8,7 +8,7 @@ body{
 .img{
     height: 565px;
     width: 500px;
-    margin-left: 4900xp;
+    margin-left: 430px;
     border-radius:25px;
 }
 .h1{
@@ -17,13 +17,13 @@ body{
     font-family: "one";
 }
 .h2{
-    margin-left: 470px;
+    margin-left: 390px;
     margin-right: 390px;
     color: rgb(231, 231, 133);
     font-family: "one";
 }
 .h23{
-    margin-left: 470px;
+    margin-left: 390px;
     margin-right: 390px;
     color: rgb(251, 255, 0);
     font-family: "one";
